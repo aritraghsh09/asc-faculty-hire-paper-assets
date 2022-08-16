@@ -18,3 +18,16 @@ One of the main purposes of writing up this document was so that other departmen
 
 ## Contact
 If you have questions, please feel free to reach out to any of the authors on the paper (INSERT LINK) or [current members of the Yale Astronomy Student Council](https://astronomy.yale.edu/about/astronomy-student-council)
+
+## Attribution Information
+If you want to refer to this work, here is some BibTex
+
+```tex
+@article{asc_2022,
+      doi = {},
+      url = {},
+      year = {},
+      journal = {},
+    }
+
+```
