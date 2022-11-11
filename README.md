@@ -11,6 +11,8 @@ In the summer of 2022, we wrote up a publicly available document [INSERT LINK] o
 
 * [Jupyter Notebook Showing Our Analysis Pipeline](https://colab.research.google.com/drive/1y47zNyRb7l5ftv8CJ_rIcG1l-urDWcGo?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y47zNyRb7l5ftv8CJ_rIcG1l-urDWcGo?usp=sharing)
 
+* [Link to BAAS and arXiv write-ups] -- Coming Soon!
+
 
 ## License
 One of the primary purposes of writing the above document was so that other departments at Yale and other institutions could adopt a similar approach. All data and analysis pipelines are thus being made available under a [GNU GPL v3.0 License](https://github.com/aritraghsh09/asc-faculty-hire-paper-assets/blob/main/LICENSE).
