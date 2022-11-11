@@ -9,7 +9,7 @@ In the summer of 2022, we wrote up a publicly available document [INSERT LINK] o
 
 * [Google Form Used For the Survey](https://forms.gle/5ezMiDNBjXPuKYVG7)
 
-* [Jupyter Notebook Showing Our Analysis Pipeline](fake_link) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y47zNyRb7l5ftv8CJ_rIcG1l-urDWcGo?usp=sharing)
+* [Jupyter Notebook Showing Our Analysis Pipeline](https://colab.research.google.com/drive/1y47zNyRb7l5ftv8CJ_rIcG1l-urDWcGo?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y47zNyRb7l5ftv8CJ_rIcG1l-urDWcGo?usp=sharing)
 
 
 ## License
