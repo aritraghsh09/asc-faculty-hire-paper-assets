@@ -2,7 +2,7 @@
 
 In 2022, the Department of Astronomy at Yale University initiated a search for a new faculty member. Current graduate students were given the opportunity to interact with all the shortlisted candidates via an hour-long meeting, as well as the candidate's colloquium and other informal departmental interactions. To reduce subjectivity, the Yale Astronomy Student Council (ASC) designed and implemented a procedure to gather and present data collected from all graduate students during these interactions. These data and an associated write-up were presented at a department faculty meeting at the end of the candidate interview process. 
  
-In the summer of 2022, we wrote up a publicly available document [INSERT LINK] on this survey inspired by the overwhelming positive response to the faculty hiring survey from both students and faculty. This repository  contains all the data products that are mentioned in the paper. 
+In the Fall of 2022, we wrote up a [publicly available document](https://baas.aas.org/pub/fpf0fcu1) on this survey inspired by the overwhelming positive response to the faculty hiring survey from both students and faculty. This repository  contains all the data products that are mentioned in the paper. 
 
 
 ## Publicly Available Data-Products
@@ -11,7 +11,9 @@ In the summer of 2022, we wrote up a publicly available document [INSERT LINK] o
 
 * [Jupyter Notebook Showing Our Analysis Pipeline](https://colab.research.google.com/drive/1y47zNyRb7l5ftv8CJ_rIcG1l-urDWcGo?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y47zNyRb7l5ftv8CJ_rIcG1l-urDWcGo?usp=sharing)
 
-* [Link to BAAS and arXiv write-ups] -- Coming Soon!
+* [Link to Bulletin of the AAS publication](https://baas.aas.org/pub/fpf0fcu1)
+
+* [Link to BAAS arXiv write-up] -- Coming Soon!
 
 
 ## License
@@ -23,12 +25,13 @@ If you have questions, please feel free to reach out to any of the authors on th
 ## Attribution Information
 If you want to refer to this work, here is some BibTex
 
-```tex
-@article{asc_2022,
-      doi = {},
-      url = {},
-      year = {},
-      journal = {},
-    }
 
+```tex
+@article{asc_22,
+	author = {Asali, Yasmeen and Gerbig, Konstantin and Ghosh, Aritra and Lindsay, Christopher and Shen, Zili and Geha, Marla},
+	journal = {Bulletin of the AAS},
+	note = {https://baas.aas.org/pub/fpf0fcu1},
+	publisher = {},
+	title = {A {Standardized} {Framework} for {Collecting} {Graduate} {Student} {Input} in {Faculty} {Searches}},
+}
 ```
