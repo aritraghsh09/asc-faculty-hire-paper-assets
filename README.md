@@ -27,7 +27,7 @@ If you want to refer to this work, here is some BibTex
 
 
 ```tex
-@article{Asali2022Standardized,
+@article{YaleASC2022,
 	author = {Asali, Yasmeen and Gerbig, Konstantin and Ghosh, Aritra and Lindsay, Christopher and Shen, Zili and Geha, Marla},
 	journal = {Bulletin of the AAS},
 	number = {1},
