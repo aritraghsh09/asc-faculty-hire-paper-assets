@@ -13,7 +13,7 @@ In the Fall of 2022, we wrote up a [publicly available document](https://baas.aa
 
 * [Link to Bulletin of the AAS publication](https://baas.aas.org/pub/2022i091/release/1)
 
-* [Link to BAAS arXiv write-up] -- Coming Soon!
+* [Link to arXiv write-up](https://arxiv.org/abs/2212.01456)
 
 
 ## License
