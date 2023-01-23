@@ -15,6 +15,8 @@ In the Fall of 2022, we wrote up a [publicly available document](https://baas.aa
 
 * [Link to arXiv write-up](https://arxiv.org/abs/2212.01456)
 
+* [Link to astrobites article](https://astrobites.org/2023/01/23/yale-faculty-hiring-framework/)
+
 
 ## License
 One of the primary purposes of writing the above document was so that other departments at Yale and other institutions could adopt a similar approach. All data and analysis pipelines are thus being made available under a [GNU GPL v3.0 License](https://github.com/aritraghsh09/asc-faculty-hire-paper-assets/blob/main/LICENSE).
